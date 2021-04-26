@@ -1,16 +1,22 @@
 # weather_report
 
-A new Flutter application.
+### About:
+- This is app which is provided you the current weather report according to the zip code of the location.you can know about the temprature ,weather condition ,windSpeed,and humidity.
 
-## Getting Started
+<br><br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![s1](https://github.com/blackhat955/Quiz_app_Using_flutter/blob/main/images/Screenshot%20(145).png) <br><br>
+![s2](https://github.com/blackhat955/Quiz_app_Using_flutter/blob/main/images/Screenshot%20(146).png)  <br><br>
+![s3](https://github.com/blackhat955/Quiz_app_Using_flutter/blob/main/images/Screenshot%20(147).png)  <br><br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- For Makeing it  More User Friendly and Accurate I am still working on it and also looking for developer who want collab and help to me for  add  more functionality into it . <br><br>
+## Contributer's is Always welcome 
+- if anyone want to collaborate feel free to contact me or message on linkedin    :)  <br>
+## Regards & Welcome <br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Durgesh Tiwari](https://www.linkedin.com/in/durgesh98/)
+
+
+
+
